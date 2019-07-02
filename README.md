@@ -13,11 +13,11 @@ This repo is a fully functional website suitable for an academic project, small 
 
 ## Set up the website
 * Clone the repo  
-`https://github.com/jaswal72/upes-fipi-jigyasa.git`
+`https://github.com/Sneheel/upes-fipi-jigyasa.git`
 
 * Open Project directory  
 * Now install the requirements  
-`pip install -r requirements.txt`
+`pip install -r requirements`
 
 * Set Environment variables
 * Make Migrations  
