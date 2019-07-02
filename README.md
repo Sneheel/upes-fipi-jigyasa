@@ -1,5 +1,5 @@
 # UPES FIPI JIGYASA
-<img src="https://www.fipi.org.in/employees_data/images/fipi.png" height="70">&nbsp;&nbsp;<img src="https://github.com/jaswal72/upes-fipi-jigyasa/blob/master/static/images/jigyasa.png" height="80">  
+<img src="https://www.fipi.org.in/employees_data/images/fipi.png" height="70">&nbsp;&nbsp;<img src="https://github.com/Sneheel/upes-fipi-jigyasa/blob/master/static/images/jigyasa.png" height="80">
 
 
 This is a website made to host JIGYASA annual event by UPES FIPI student chapter. It is hosted in heroku. This website contains user authentication system (login/logout) and paytm payments gateway.  
@@ -38,8 +38,8 @@ This repo is a fully functional website suitable for an academic project, small 
 
 ## Acknowledgments
 
-The front end is based on the HTML, Bootstrap.  
+The front end is based on the HTML, CSS, Bootstrap.  
 The back end is based on django.
 
 #### For any issues contact me at:
-shubham__jaswal@hotmail.com
+shivamsneheel@gmail.com
